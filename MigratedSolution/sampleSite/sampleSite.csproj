@@ -20,7 +20,7 @@
         <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.2.0" />
         <PackageReference Include="Microsoft.Extensions.PlatformAbstractions" Version="1.1.0" />
         <PackageReference Include="Microsoft.VisualBasic" Version="10.2.0" />
-        <PackageReference Include="System.Drawing.Common" Version="4.5.1" /> 
+        <PackageReference Include="System.Drawing.Common" Version="4.7.2" /> 
         <PackageReference Include="Mobilize.Extensions.Logging.RollingFile" Version="2.1.1-rc0027" />
         <PackageReference Include="System.IO.Abstractions" Version="4.2.8" />
             <PackageReference Include="System.Data.SqlClient" Version="4.6.1"/>
